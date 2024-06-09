@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ccc on Llamafia tech review</title>
+    <link>https://llamafia.github.io/tags/ccc/</link>
+    <description>Recent content in ccc on Llamafia tech review</description>
+    <image>
+      <title>Llamafia tech review</title>
+      <url>https://llamafia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://llamafia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jun 2024 19:31:56 +0800</lastBuildDate>
+    <atom:link href="https://llamafia.github.io/tags/ccc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://llamafia.github.io/post/first/</link>
+      <pubDate>Sun, 09 Jun 2024 19:31:56 +0800</pubDate>
+      <guid>https://llamafia.github.io/post/first/</guid>
+      <description>Hello aaa bbb ccc </description>
+    </item>
+  </channel>
+</rss>
